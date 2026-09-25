@@ -1,0 +1,12 @@
+{
+  "name": "bot-casino-12",
+  "version": "5.8.7",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.24",
+    "pino": "^8.21.0"
+  }
+}

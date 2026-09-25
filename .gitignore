@@ -1,0 +1,5 @@
+node_modules/
+auth/
+saldo.json
+*.log
+.session
